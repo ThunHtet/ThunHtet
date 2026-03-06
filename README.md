@@ -33,4 +33,4 @@ React • Node.js • Unity • Docker • Git
 
 ### 📫 Connect
 GitHub: https://github.com/ThunHtet 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/thun-htet-tun-than/
